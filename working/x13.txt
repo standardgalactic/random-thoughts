@@ -1,0 +1,40 @@
+are not random; they are
+strategic data-gathering actions
+designed to
+test specific perceptual hypotheses
+.
+Each eye movement serves as a
+mini-experiment
+that reduces uncertainty about the visual scene.
+The Role of Free-Energy Minimization
+This process aligns with
+Friston���s Free-Energy Principle
+, which suggests that biological systems behave in ways that
+minimize uncertainty (entropy) about the world
+.
+The brain
+chooses eye movements that reduce uncertainty most efficiently
+, similar to how scientists conduct experiments to refine their models.
+Bayesian Inference & Active Perception
+The brain
+integrates prior knowledge with new sensory data
+to update its beliefs, using
+Bayesian inference
+.
+This means we don���t just see passively; we
+actively seek information to confirm or refine what we expect to see
+.
+Implications & Counterintuitive Insights
+The simulations in the paper show that our
+eye movements are optimized for information gain
+, not just for foveating objects of interest.
+This explains why we often glance at
+informative regions of a scene
+, even if they aren���t the most immediately obvious or salient.
+How This Relates to Hypoception & Exigency
+Just as words exist in a
+superposition of meanings until context collapses them
+, perception involves
+multiple competing hypotheses until sensory input refines them
+.
+Exigency in perception

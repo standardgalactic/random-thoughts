@@ -1,0 +1,40 @@
+We don���t just ���see��� passively; we actively
+interpret
+and
+anticipate
+what we see, filling in missing details.
+It fits with AI and machine learning.
+Modern AI uses similar hierarchical models, like deep neural networks, which refine predictions over multiple layers.
+Final Thoughts
+Bach���s explanation is highly plausible and aligns well with current cognitive science and neuroscience. His emphasis on
+active perception, hierarchical processing, and dynamic hypothesis testing
+offers a compelling model for how our brains construct reality.
+Dijiste:
+Ok the transcriber wrote hyper but it sounded like he said hypoception or maybe hyperception
+ChatGPT dijo:
+Yeah, it sounds like the transcription might have misheard what Bach actually said. Given the context, he was probably referring to
+hypoception
+(hypothesis-based perception) or possibly
+hyperception
+(a term that could imply an amplified or layered perceptual process).
+If he meant
+hypoception
+, it would fit with predictive coding and Bayesian perception���where the brain forms
+hypotheses
+about sensory input and refines them over time.
+If he meant
+hyperception
+, that could imply a more
+hierarchical or multi-layered
+perception model, which also makes sense given his description of top-down and bottom-up processes working together across multiple levels.
+Without hearing the actual audio, my best guess is he was referring to
+hypoception
+because it directly aligns with hypothesis-based perception theories in neuroscience and AI. But if he coined
+hyperception
+as a new term, he might be emphasizing the
+simultaneous superposition
+of perceptual possibilities before resolution.
+Dijiste:
+I would say that these type of superpositions are implicit in words like human which doesn't indicate the gender or age, and tree which could represent different species or abstract concepts. As further information is revealed the context eliminates or select various possibilities causing it to collapse into a coherent exigency
+ChatGPT dijo:
+Yes, that���s a great way to frame it! Words like

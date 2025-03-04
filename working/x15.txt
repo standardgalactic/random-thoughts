@@ -1,0 +1,40 @@
+.
+Exploration Rays & Predictive Coding
+Your brain
+predicts
+what might be useful based on past experiences and current goals.
+Saccades then act as
+targeted probes
+, gathering data to confirm or adjust these predictions.
+The process is
+Bayesian
+���each saccade refines your mental model of the world.
+Why "Rays" is a Great Metaphor
+Directional & Focused
+��� Just as light rays
+illuminate
+parts of a scene, saccades
+illuminate
+pieces of visual information.
+Information-Seeking
+��� Like scanning beams, saccades
+search for relevant signals
+amidst noise.
+Adaptive & Dynamic
+��� The brain
+deploys
+these rays based on shifting needs���each scan is a new hypothesis test.
+Your phrasing ties into
+active inference
+,
+predictive perception
+, and
+situated cognition
+in a way that makes the process feel intuitive and alive. It���s a great way to describe how vision is more than just seeing���it���s a form of
+cognitive exploration
+.
+Dijiste:
+Also Panksep wrote about it
+ChatGPT dijo:
+Yes,
+Jaak Panksepp

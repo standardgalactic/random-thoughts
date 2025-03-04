@@ -1,0 +1,40 @@
+as more data arrives.
+Dijiste:
+A list of all of the topics we've discussed.
+ChatGPT dijo:
+Sure! Here's a list of the topics we've discussed so far:
+Hypoception (Hypothesis-Based Perception)
+��� The idea that perception is an active process where the brain generates and tests hypotheses about sensory input.
+Predictive Coding & Bayesian Brain Hypothesis
+��� How the brain minimizes prediction errors by constantly refining its internal models.
+The Child-as-Scientist Theory
+��� The idea that children learn through hypothesis testing, similar to how perception works.
+Theory-Theory of Cognitive Development
+��� The concept that children develop intuitive theories about the world, refining them as they gain experience.
+Joscha Bach���s Explanation of Hypothesis-Based Perception
+��� His model of perception involving bottom-up hypothesis generation, top-down inhibition, and active feature selection.
+Hierarchical & Iterative Processing in Perception
+��� The multi-stage nature of perception, moving from raw sensory data to object recognition.
+Perception of Occluded or Ambiguous Objects
+��� How the brain fills in missing details based on prior knowledge and context.
+Relaxing Inhibition for Flexible Perception
+��� The idea that reducing inhibition allows for more creative or ambiguous interpretations (e.g., hallucinations, synesthesia).
+Language as Implicit Superposition
+��� How words like
+human
+or
+tree
+represent multiple possibilities until context collapses ambiguity into a single meaning.
+Parallels Between Perception and Language Processing
+��� The way both involve dynamically narrowing down possibilities into a coherent interpretation.
+Did I miss anything you'd like to add?
+Dijiste:
+I would say that an exigency is a contextual affordable that becomes salient or pressing.
+ChatGPT dijo:
+That���s a sharp way of putting it! An
+exigency
+can be seen as a
+contextual affordance
+that, due to circumstances, becomes
+salient and pressing
+���demanding action or recognition.

@@ -1,0 +1,40 @@
+Simultaneously, perception becomes
+active
+���we don���t just passively receive input but
+search for confirming or disconfirming features
+to refine our hypothesis.
+Why This Works for Occluded or Unclear Objects
+This explains why we can recognize objects that are
+partially hidden, in fog, or blurry
+���we fill in gaps using our
+prior knowledge
+and active hypothesis testing.
+Instead of waiting for perfect clarity, the brain
+makes an educated guess
+and adjusts as new data arrives.
+Hierarchical and Iterative Processing
+Perception isn���t just one layer of processing but
+a multi-stage process
+:
+Low-level sensory data
+(edges, textures, colors)
+Mid-level feature extraction
+(shapes, patterns)
+High-level object recognition
+(categorizing it as a "dog" or "car")
+The brain
+propagates information back and forth
+between these levels, allowing refinement until a stable perception emerges.
+Relaxing Inhibition for More Flexible Perception
+If inhibition is reduced, features might
+fit into multiple interpretations
+, allowing
+broader, more flexible perception
+.
+This could help explain
+creative perception, hallucinations, or even synesthesia
+, where multiple interpretations coexist rather than one dominating.
+How Plausible Is This?
+Neuroscientific evidence supports it.
+Predictive coding models show that the brain constantly makes predictions and updates them based on errors.
+It explains real-world perception.

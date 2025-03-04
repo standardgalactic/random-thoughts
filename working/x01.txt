@@ -1,0 +1,40 @@
+Feedback
+National Institutes of Health (NIH) (.gov)
+https://pmc.ncbi.nlm.nih.gov
+The direct perception hypothesis: perceiving the intention of another's action hinders its precise imitation
+by T Froese �� 2014 �� Cited by 56 ��� However, a growing consensus in social cognition research accepts the direct perception hypothesis: primarily we see what others aim to do; we do not infer it ...
+
+Frontiers
+https://www.frontiersin.org
+Frontiers | Perceptions as Hypotheses: Saccades as Experiments
+by K Friston �� 2012 �� Cited by 604 ��� If perception corresponds to hypothesis testing (Gregory, 1980); then visual searches might be construed as experiments that generate sensory data.
+
+ScienceDirect.com
+https://www.sciencedirect.com
+Action perception as hypothesis testing
+by F Donnarumma �� 2017 �� Cited by 116 ��� Our model offers a novel perspective on action observation that highlights its active nature based on prediction dynamics and hypothesis testing. Previous ...
+
+Medium �� Ronald Boothe
+190+ likes �� 3 months ago
+On G. S. Brindley's Psychophysical Linking Hypotheses | by Ronald Boothe | The Quantastic Journal
+How rich scientific theories of perception can be constructed based on the analyses of the results of Class A Observations.
+People also search for
+
+PhilArchive
+https://philarchive.org
+PDF
+Default Hypotheses in the Study of Perception: A Reply to Phillips Forthcoming in Journal of Consciousness Studies
+by J Berger �� 2021 �� Cited by 3 ��� There is, however, an alternative hypothesis���namely, that in many such studies, the target stimuli are consciously perceived, but in a degraded way, and ...
+National Institutes of Health (NIH) (.gov)
+https://pmc.ncbi.nlm.nih.gov
+Attention and Conscious Perception in the Hypothesis Testing Brain - PMC
+by J Hohwy �� 2012 �� Cited by 505 ��� Conscious perception and attention
+ChatGPT dijo:
+Hypoception: Hypothesis-Based Perception
+Introduction
+Perception has traditionally been viewed as a passive process in which the senses receive information from the environment, which is then interpreted by the brain. However, recent research suggests that perception is an active, hypothesis-driven process. This concept, often referred to as "hypoception" or hypothesis-based perception, posits that our brain continuously formulates and tests hypotheses to interpret sensory information. Rather than merely reacting to external stimuli, the brain predicts what it expects to perceive and adjusts these expectations based on incoming data.
+This essay explores the theoretical foundation of hypothesis-based perception, its implications for cognitive science, and its applications in fields such as psychology, artificial intelligence, and neuroscience.
+Theoretical Foundation of Hypothesis-Based Perception
+Hypothesis-based perception is rooted in the idea that the brain operates as a predictive system. This concept aligns with Bayesian inference, a statistical method that updates the probability of a hypothesis based on new evidence. The Bayesian brain hypothesis suggests that perception is a form of probabilistic reasoning, where the brain continuously refines its predictions by integrating prior knowledge with sensory input.
+One of the earliest proponents of this view was the cognitive scientist Richard Gregory, who argued that perception is a problem-solving process. According to Gregory, the brain formulates perceptual hypotheses based on past experiences and expectations. These hypotheses are then tested against sensory data, and if they are consistent with the input, they are accepted as perception. If the data contradicts the hypothesis, the brain modifies its predictions accordingly.
+Karl Friston���s predictive coding theory further supports this idea, suggesting that the brain minimizes "prediction error" by constantly adjusting its internal models to align with the external world. In this framework, perception is not a direct representation of reality but rather a best-guess interpretation based on prior knowledge.

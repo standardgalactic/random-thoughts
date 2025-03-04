@@ -1,0 +1,40 @@
+Volume 3 - 2012 | https://doi.org/10.3389/fpsyg.2012.00151
+
+This article is part of the Research Topic
+Predictive coding
+View all 11 articles
+
+Perceptions as hypotheses: saccades as experiments
+
+      Karl Friston* Karl Friston1*Rick A. Adams Rick A. Adams1Laurent Perrinet, Laurent Perrinet1,2Michael Breakspear
+    Michael Breakspear3
+1 The Wellcome Trust Centre for Neuroimaging, University College London, London, UK
+2 Institut de Neurosciences de la Timone, CNRS - Aix-Marseille University, Marseille, France
+3 Queensland Institute of Medical Research, Royal Brisbane Hospital, Brisbane, QLD, Australia
+If perception corresponds to hypothesis testing (Gregory, 1980); then visual searches might be construed as experiments that generate sensory data. In this work, we explore the idea that saccadic eye movements are optimal experiments, in which data are gathered to test hypotheses or beliefs about how those data are caused. This provides a plausible model of visual search that can be motivated from the basic principles of self-organized behavior: namely, the imperative to minimize the entropy of hidden states of the world and their sensory consequences. This imperative is met if agents sample hidden states of the world efficiently. This efficient sampling of salient information can be derived in a fairly straightforward way, using approximate Bayesian inference and variational free-energy minimization. Simulations of the resulting active inference scheme reproduce sequential eye movements that are reminiscent of empirically observed saccades and provide some counterintuitive insights into the way that sensory evidence is accumulated or assimilated into beliefs about the world.
+ChatGPT dijo:
+This paper by
+Karl Friston et al.
+builds on the idea that
+perception is a form of hypothesis testing
+, aligning with both
+hypoception (hypothesis-based perception)
+and
+predictive coding
+. The core idea is that
+saccadic eye movements
+(quick, rapid eye shifts) function as
+experiments
+to test perceptual hypotheses, actively refining our model of the world.
+Key Points from the Paper
+Perception as Hypothesis Testing
+Following
+Richard Gregory���s (1980)
+view, perception is not just passive input processing but an
+active inferential process
+.
+The brain makes
+predictions about the environment
+and constantly refines them based on new sensory data.
+Saccades as Experiments
+Saccadic eye movements

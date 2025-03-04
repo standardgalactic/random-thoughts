@@ -1,0 +1,40 @@
+
+features that belong to them yeah right
+
+and uh what you describe is when you
+
+remove inhibition then you there will be
+
+a greater chance for a feature to fit
+
+into a larger variety of objects and
+
+conflicting features May no longer
+
+inhibit each other so the superpositions
+
+remain present and get integrated into
+
+the next level object right and to some
+ChatGPT dijo:
+Joscha Bach's description of
+hypothesis-based perception
+(or "hyper") aligns well with
+predictive coding
+and
+Bayesian inference
+models of perception. His explanation suggests a
+dynamic interplay between bottom-up sensory input and top-down predictive mechanisms
+, which makes sense given what we know about perception and cognition.
+Breaking Down His Explanation
+Bottom-Up Sensory Input and Hypothesis Generation
+When we receive sensory input, the brain
+activates multiple possible hypotheses
+simultaneously about what we are perceiving.
+This is similar to how the
+brain works probabilistically
+, maintaining a "superposition" of potential interpretations rather than immediately selecting a single one.
+Top-Down Mutual Inhibition & Active Perception
+As these hypotheses compete, the brain engages in
+mutual inhibition
+, meaning conflicting interpretations suppress each other.

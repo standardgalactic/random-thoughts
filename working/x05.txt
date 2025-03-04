@@ -1,0 +1,40 @@
+
+layer of hypothesis and one level of
+
+perception but it's a multi-stage thing
+
+where you have a hierarchy of more and
+
+more concrete um features uh towards the
+
+perception and more more abstract
+
+towards the classification right and uh
+
+by propagating activation back and force
+
+this thing eventually settles into a
+
+state where you are able to track your
+
+sensor data that's the rough intuition
+
+right and this is very compatible with
+
+what you just described yeah so you have
+
+bottom up mechanism like in a vision
+
+model that is looking for more and more
+
+complex features and eventually these
+
+features correspond to objects and that
+
+uh you have a um downward propagation
+
+where you are basically organizing the
+
+features into the shapes of the objects
+
+and uh the objects are claiming the
